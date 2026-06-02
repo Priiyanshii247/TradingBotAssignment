@@ -1,0 +1,3 @@
+2026-06-02 20:19:08,600 - INFO - REQUEST => {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 200000}
+
+2026-06-02 20:19:10,121 - INFO - RESPONSE => {"orderId":13830090144,"symbol":"BTCUSDT","status":"NEW","type":"LIMIT","side":"SELL"}
