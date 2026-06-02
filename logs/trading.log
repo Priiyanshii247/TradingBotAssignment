@@ -1,0 +1,38 @@
+2026-06-02 15:52:39,254 - INFO - REQUEST => BTCUSDT BUY MARKET 0.001
+2026-06-02 15:52:44,374 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-02 16:12:06,172 - INFO - REQUEST => BTCUSDT SELL LIMIT 0.001
+2026-06-02 16:12:11,291 - ERROR - APIError(code=0): Invalid JSON error message from Binance: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+2026-06-02 16:17:08,168 - INFO - REQUEST => BTCUSDT BUY MARKET 0.001
+2026-06-02 16:17:09,274 - ERROR - APIError(code=0): Invalid JSON error message from Binance: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+2026-06-02 20:16:09,805 - INFO - REQUEST => {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1780411569805, 'signature': 'fee5addda6f4d476ddfdcc9be280bebf93103120689e2b9521ff1196cf2c643f'}
+2026-06-02 20:16:11,844 - INFO - RESPONSE => {"orderId":13829756276,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"Zlt9pWO60HWNBxj32bxr5L","price":"0.00","avgPrice":"0.00","origQty":"0.0010","executedQty":"0.0000","cumQty":"0.0000","cumQuote":"0.000000","timeInForce":"GTC","type":"MARKET","reduceOnly":false,"closePosition":false,"side":"BUY","positionSide":"BOTH","stopPrice":"0.00","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"MARKET","priceMatch":"NONE","selfTradePreventionMode":"EXPIRE_MAKER","goodTillDate":0,"updateTime":1780411572213}
+2026-06-02 20:16:28,918 - INFO - REQUEST => {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timestamp': 1780411588918, 'price': 200000.0, 'timeInForce': 'GTC', 'signature': 'd20608dfcf29be687c662ebd06c777584689431c67e8286fac122cba2b994f72'}
+2026-06-02 20:16:30,125 - INFO - RESPONSE => {"orderId":13829797580,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"Ga8ggFgf0aOslnvwELzydA","price":"200000.00","avgPrice":"0.00","origQty":"0.0010","executedQty":"0.0000","cumQty":"0.0000","cumQuote":"0.000000","timeInForce":"GTC","type":"LIMIT","reduceOnly":false,"closePosition":false,"side":"SELL","positionSide":"BOTH","stopPrice":"0.00","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"LIMIT","priceMatch":"NONE","selfTradePreventionMode":"EXPIRE_MAKER","goodTillDate":0,"updateTime":1780411590455}
+2026-06-02 20:17:42,134 - INFO - REQUEST => {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1780411662134, 'signature': 'a9e481ff69e1cbe29bd5b20841f26f9c676de9574e044fd3d225e478534e6e1b'}
+2026-06-02 20:17:43,503 - INFO - RESPONSE => {"orderId":13829941192,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"kmAjG1wvXK11nPp2OVCxtD","price":"0.00","avgPrice":"0.00","origQty":"0.0010","executedQty":"0.0000","cumQty":"0.0000","cumQuote":"0.000000","timeInForce":"GTC","type":"MARKET","reduceOnly":false,"closePosition":false,"side":"BUY","positionSide":"BOTH","stopPrice":"0.00","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"MARKET","priceMatch":"NONE","selfTradePreventionMode":"EXPIRE_MAKER","goodTillDate":0,"updateTime":1780411663867}
+2026-06-02 20:19:08,600 - INFO - REQUEST => {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timestamp': 1780411748600, 'price': 200000.0, 'timeInForce': 'GTC', 'signature': '165f50d6b4b1fd481bebda5655f6170e4b62d3f4059fdcc591a5e1c91ce9706a'}
+2026-06-02 20:19:10,121 - INFO - RESPONSE => {"orderId":13830090144,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"KgeJF5bfyDkxeHvqteO6VE","price":"200000.00","avgPrice":"0.00","origQty":"0.0010","executedQty":"0.0000","cumQty":"0.0000","cumQuote":"0.000000","timeInForce":"GTC","type":"LIMIT","reduceOnly":false,"closePosition":false,"side":"SELL","positionSide":"BOTH","stopPrice":"0.00","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"LIMIT","priceMatch":"NONE","selfTradePreventionMode":"EXPIRE_MAKER","goodTillDate":0,"updateTime":1780411750052}
